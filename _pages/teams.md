@@ -18,7 +18,8 @@ Group photo, Hangzhou, July 21, 2025
 <br>
 
 
-[MAKEr Home](https://www.labxing.com/lab/2006/members)
+MAKER HOME 
+<!-- # (https://www.labxing.com/lab/2006/members) -->
 ======
 <div style="display:flex;justify-content:center;">
    <img src="/images/group_photo/makerhome.jpg" width="600" alt="Fig" style="margin:auto;">
