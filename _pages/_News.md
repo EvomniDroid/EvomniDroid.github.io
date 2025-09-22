@@ -1,25 +1,24 @@
 ---
-permalink: /News/                     # 页面永久链接：/News/
-title: "Latest News"                 # 页面标题：最新消息
-author_profile: true                 # 显示作者信息栏：启用
-redirect_from:                       # 重定向设置：从以下路径重定向到当前页面
-  - /md/                             # 从/md/重定向到本页面
-  - /News.html                       # 从/News.html重定向到本页面
+permalink: /News/
+title: "Latest News"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /News.html
 ---
 
-{% include base_path %}              <!-- 包含基础路径配置 -->
+{% include base_path %}
 
-<!-- HTML页面开始：新闻展示页面 -->
-<html lang="en">                     <!-- HTML文档声明：英文页面 -->
-<head>                               <!-- 页面头部开始 -->
-  <meta charset="UTF-8">             <!-- 字符编码：UTF-8 -->
-  <title>Volunteer Moments</title>   <!-- 页面标题：志愿者时刻 -->
-  <style>                            <!-- CSS样式开始 -->
-    .volunteer-slider {              /* 志愿者轮播图容器样式 */
-      max-width: 800px;              /* 最大宽度：800px */
-      margin: 0 auto;                /* 居中对齐 */
-      position: relative;            /* 相对定位 */
-      font-family: sans-serif;       /* 字体：无衬线字体 */
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Volunteer Moments</title>
+  <style>
+    .volunteer-slider {
+      max-width: 800px;
+      margin: 0 auto;
+      position: relative;
+      font-family: sans-serif;
     }
 
     .slides-container {
