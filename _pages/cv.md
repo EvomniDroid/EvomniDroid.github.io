@@ -11,21 +11,20 @@ redirect_from:
 
 <span style="color: #800000;">Education</span>
 ======
-* 2025.8~: Ph.D. in Computer Science and Technology (Joint Program), Westlake University & Zhejiang University
-* 2021.9-2024.3: M.S. in Mechanical Engineering, Zhejiang University
-* 2017.9-2021.6: B.S. in Mechanical and Electronic Engineering, Jiangnan University
+* 2021.9-2025.6: Dual Bachelor's Degree in Mechanical Electronics Engineering and Software Engineering
 
 <span style="color: #800000;">Work experience</span>
 ======
-* 2024.4-2025.8: Research Assistant in TGAI lab, Westlake University
+* 2024.6-2025.6: Research Intern in National Key Laboratory of Intelligent Technology and Systems, Tsinghua University
+* 2024.11-2025.6: Research Intern in AIR discover lab, Tsinghua University
 
 <span style="color: #800000;">Research interests</span>
 ======
-* Human-Machine Interaction
-* Locomotion Tracking
-* Embodied Intelligence
-* Health Care and Rehabilitation Strategy
-* Humanoid Robot and Exoskeleton
+* vision-language navigation
+* vision-language-action model
+* Motion control of humanoid and quadruped robots
+* mobile manipulation
+
 
 
 <span style="color: #800000;">Skills</span>
@@ -43,9 +42,9 @@ redirect_from:
 ======
 ## <span style="color: #800000;">PAPERS</span>
 ### 2025
-**Feng L**, Gui L, Xu W, et al. "Locomotion Joint Angle and Moment Estimation With Soft Wearable Sensors for Personalized Exosuit Control," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 33, pp. 1048-1060, 2025, doi: 10.1109/TNSRE.2025.3547361.
+**Hao L**, Gui L, Xu W, et al. "Locomotion Joint Angle and Moment Estimation With Soft Wearable Sensors for Personalized Exosuit Control," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 33, pp. 1048-1060, 2025, doi: 10.1109/TNSRE.2025.3547361.
 
-### 2024
+<!-- ### 2024
 **Feng L**, Yu L, Lyu H, Yang C, Liu X, Zhou C, and Yang W. Synergy in motion: Exploring the similarity and variability of muscle synergy patterns in healthy individuals, Human Movement Science, vol. 98, p. 103300, 2024, doi: 10.1016/j.humov.2024.103300.
 
 **Feng L**, Gui L, Wang X, et al. Force Calibration of Soft-Sensing Unit for Flexible Exoskeleton[C]//2024 6th International Conference on Data-driven Optimization of Complex Systems (DOCS). IEEE, 2024: 358-364.
@@ -71,9 +70,9 @@ Bioengineering and Biotechnology. 9:774210. doi: 10.3389/fbioe.2021.774210.
 ### 2020
 **Feng L**, Pin X, Sun M, Kong F and Ren D. Design of Intelligent turn signal System for Bicycle [J]. Machinery,2020,58(07):56-58. (Chinese Journal)
 
-Li H, Pin X, Tian S, **Feng L**, Sun M and Chen Z, Unmanned aerial vehicle endurance mobile base station equipped with battery quick change device, Machinery, 2020,58(08):61-63+77. (Chinese Journal)
+Li H, Pin X, Tian S, **Feng L**, Sun M and Chen Z, Unmanned aerial vehicle endurance mobile base station equipped with battery quick change device, Machinery, 2020,58(08):61-63+77. (Chinese Journal) -->
 
-## <span style="color: #800000;">PATENTS</span>
+<!-- ## <span style="color: #800000;">PATENTS</span>
 Yang W, **Feng L**, Gui L, Cao Q, Yan Z, Yu L, Yang C and Liu X. A motion capture pants and angle estimation method capable of detecting 3D joint angles[P]. CN116195992A,2023-06-02. 
 
 **Feng L** , Yang W, Yan Z, Yu Y, Wo K, Zhao C, Zhao W and Yang C. Basketball training machine[P]. CN115463399B,2022-12-13. 
@@ -121,9 +120,9 @@ Yang C, Song Z, Zhang S, Xia Q, Jin B, Chen Y, Liu C, Zeng J, **Feng L**, Zhao W
 
 Zeng J, Zhang S, Xia Q, Zhao W, **Feng L**, Hu R, Jin B, Yang C. An automatic pressing system for non-colonoscopy surgery[P]. CN217066611U, 2022-07-29.
 
-Liu C, Zhang S, Sun X, Jin B, Yang C, Zheng Y, Zeng J, Zhao W, **Feng L**. A bulletproof vest[P]. CN216845896U, 2022-06-28.
+Liu C, Zhang S, Sun X, Jin B, Yang C, Zheng Y, Zeng J, Zhao W, **Feng L**. A bulletproof vest[P]. CN216845896U, 2022-06-28. -->
 
-<span style="color: #800000;">Honors</span>
+<!-- <span style="color: #800000;">Honors</span>
 ======
 * 2024.03: Outstanding Graduate Student of Zhejiang University
 * 2023.11: Scholarship of Excellent Academic Performance of 2023, Ningbo Innovation Center, Zhejiang University
@@ -131,13 +130,13 @@ Liu C, Zhang S, Sun X, Jin B, Yang C, Zheng Y, Zeng J, Zhao W, **Feng L**. A bul
 * 2022.12: Scholarship of Excellent Academic Performance of 2022, Ningbo Innovation Center, Zhejiang University
 * 2019.11: Scholarship of Scientific and Technological Innovation, Jiangnan University
 * 2018.11: Scholarship of Scientific and Technological Innovation, Jiangnan University
-* 2018.11: Exceptional Student Leader, Jiangnan University
+* 2018.11: Exceptional Student Leader, Jiangnan University -->
 
 <span style="color: #800000;">Awards</span>
 ======
-* 2021.02-2021.05: Excellent Graduation Project of Jiangsu Province, First prize
-* 2020.10-2021.07: 20th ROBOCON-China University Robot Competition, National Third Prize
-* 2019.07-2020.09: 19th ROBOCON-China University Robot Competition, National Third Prize
-* 2019.06-2020.07: National Conference on Undergraduate Innovation and Entrepreneurship, National Outstanding Project
-* 2018.05-2019.06: 18th ROBOCON-China University Robot Competition, National Second Prize
+* 2021.12: Third Prize in the 13th National College Students Mathematics Competition of Shaanxi Province
+* 2022.03: S Award of the American College Student Mathematical Modeling Contest
+* 2022.07: 2022 China Artificial Intelligence Challenge Provincial Second Prize
+* 2022.08: National Second Prize of the 15th Artificial Intelligence Challenge
+* 2023.05: First Prize in the Northwest Region of the 2023 China College Student Computer Design Competition
 
