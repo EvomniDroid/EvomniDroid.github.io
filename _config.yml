@@ -38,12 +38,13 @@ author:
   semantic         : # Semantic Scholar链接
   pubmed           : # PubMed链接
   researchgate     : "https://www.researchgate.net/profile/Luying-Feng-3?ev=hdr_xprf"  # ResearchGate链接
+  yuque           :  "https://www.yuque.com/xiaobaigao-axvlp/" # 语雀用户名
 
   # Repositories and software development - 代码仓库和软件开发平台
   bitbucket        : # Bitbucket用户名 - 请更新为您的用户名
   codepen          : # CodePen用户名
   dribbble         : # Dribbble用户名
-  github           : "https://github.com/fengluying"  # GitHub链接
+  github           : "https://github.com/EvomniDroid"  # GitHub链接
   kaggle           : # Kaggle用户名  
   stackoverflow    : # Stack Overflow用户ID或用户ID和姓名（例如："1"或"1/jeff-atwood"）
 
