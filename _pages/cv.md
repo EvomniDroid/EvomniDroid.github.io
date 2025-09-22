@@ -52,13 +52,19 @@ redirect_from:
 <span style="color: #800000;">Publications</span>
 ======
 ## <span style="color: #800000;">PAPERS</span>
+
 ### 2025
-**Feng L**, Gui L, Xu W, et al. "Locomotion Joint Angle and Moment Estimation With Soft Wearable Sensors for Personalized Exosuit Control," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 33, pp. 1048-1060, 2025, doi: 10.1109/TNSRE.2025.3547361.
+
+**Hao Z**, Shi F, Jia D, Yao J, Wei G, and Lu S. "VERSA-Nav: Versatile Object-Goal Navigation Across Environments using Lightweight Explicit Maps and Open-Vocabulary Scene Graphs," in RAL
+
+**Hao Z**, Yao J. "Real-Time Semantic Terrain Segmentation and Policy Switching for Autonomous Navigation in Complex Environments," in IROS
+
+**Hao Z**, Yao J "DPSG: A Dynamic Physical Scene Graph for Long-Horizon Mobile Manipulation in Unstructured Environments," in ICRA
+
+**Hao Z**, Yao J "Semantic Consistency: The Missing Keystone for Cross-Scale Robot Navigation," in Science robotics
 
 ### 2024
-**Feng L**, Yu L, Lyu H, Yang C, Liu X, Zhou C, and Yang W. Synergy in motion: Exploring the similarity and variability of muscle synergy patterns in healthy individuals, Human Movement Science, vol. 98, p. 103300, 2024, doi: 10.1016/j.humov.2024.103300.
 
-**Feng L**, Gui L, Wang X, et al. Force Calibration of Soft-Sensing Unit for Flexible Exoskeleton[C]//2024 6th International Conference on Data-driven Optimization of Complex Systems (DOCS). IEEE, 2024: 358-364.
 
 
 
