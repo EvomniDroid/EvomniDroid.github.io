@@ -16,7 +16,7 @@ redirect_from:
 <span style="color: #800000;">Work experience</span>
 ======
 * 2024.6-2025.6: Research Intern in National Key Laboratory of Intelligent Technology and Systems, Tsinghua University
-* 2024.11-2025.6: Research Intern in AIR discover lab, Tsinghua University
+* 2024.11-2025.6: Research Intern in AIR Discover Lab, Tsinghua University
 
 <span style="color: #800000;">Research interests</span>
 ======
@@ -44,10 +44,10 @@ redirect_from:
   * 职责：在Jetson Orin NX上实现多种SLAM建图算法如ORB-SLAM纯视觉方案、FASTLIO激光方案等，在Altas国产设备上实现高精度SLAM建图可支持场景>1000平方米，通过局域网、ROS2实现多机通讯。使用D435I和睿尔曼机械臂完成手眼标定、物品抓取。
 
 * 国网浙江省电力有限公司科学技术项目
-  *基于大模型的带电作业机器人智能人机交互关键技术研究(290万元)
+  * 基于大模型的带电作业机器人智能人机交互关键技术研究(290万元)
 
 * 盛虹巡检防爆机器人
-  *立项阶段
+  * 立项阶段
 
 <span style="color: #800000;">Publications</span>
 ======
