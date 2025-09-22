@@ -32,7 +32,7 @@ Our research focuses on robotics, autonomous systems, and human-robot interactio
 <!-- 视频容器：居中显示，上下边距20px -->
 <div style="display:flex;justify-content:center;margin:20px 0;">
 <video width="600" controls>           <!-- 视频播放器：宽度600px，显示控制条 -->
-  <source src="/images/publications/UAV/UAV.mp4" type="video/mp4">    <!-- 视频源：UAV项目演示视频 -->
+  <source src="/images/video/fastlio.mp4" type="video/mp4">    <!-- 视频源：UAV项目演示视频 -->
   Your browser does not support the video tag.    <!-- 浏览器不支持视频时的提示信息 -->
 </video>
 </div>
