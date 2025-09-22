@@ -36,13 +36,18 @@ redirect_from:
 
 ## <span style="color: #800000;">Fund</span>
 
-*国家科技创新2030重大项目
-  *High-end intelligent controller integration and verification for cross-domain heterogeneous autonomous unmanned systems (37.1 million yuan)
-  *Multi-rotor drone - robotic arm platform (6 million yuan sub-project)
-  *Description: Aimed at the large-scale application needs of open general intelligent controllers in key industries such as logistics, agriculture, security, unmanned driving, and underwater operations, this research focuses on high-end controller cross-domain strong adaptability and integration technology. It seeks to break through the environmental adaptability design, reinforcement and optimization of intelligent controllers for autonomous unmanned systems, as well as the secondary development of hardware and software systems and the design of specialized algorithms under specific application requirements. The goal is to implement the deployment, integration, and application verification of high-end intelligent controllers on 3 categories and 5 types of cross-domain heterogeneous autonomous unmanned systems.
-  *Results: Verification of at least 3 functions such as explosive detection and disposal; SLAM can support scenes of up to 1000 square meters; Explosive detection target detection rate ≥ 95%.
-  *Responsibilities: Implement various SLAM mapping algorithms such as ORB-SLAM pure visual solution and FASTLIO laser solution on Jetson Orin NX, achieve high-precision SLAM mapping on Altas domestic devices that can support scenes over 1000 square meters, and enable multi-machine communication through local area network and ROS2. Use D435I and Reeman robotic arm to complete hand-eye calibration and object grasping.
+* 国家科技创新2030重大项目
+  * 面向跨域异构自主无人系统的高端智能控制器集成验证（3710万元）
+  * 多旋翼无人机-机械臂平台（600万元子课题）
+  * 描述：面向开放通用智能控制器在物流、农业、安防、无人驾驶、水下作业等重点行业中规模化应用需求，研究高端控制器跨域强适应性与集成技术，突破自主无人系统智能控制器的环境适应性设计、加固与优化，及特定应用需求下的软硬件系统二次开发与专用算法设计等技术，在3类5种跨域异构自主无人系统上实现高端智能控制器的部署、集成和应用验证。
+  * 成果：验证爆炸物识别、爆炸物处置等功能≥3种；SLAM最大可支持场景≥1000平方米；爆炸物感知目标检出率≥95%。
+  * 职责：在Jetson Orin NX上实现多种SLAM建图算法如ORB-SLAM纯视觉方案、FASTLIO激光方案等，在Altas国产设备上实现高精度SLAM建图可支持场景>1000平方米，通过局域网、ROS2实现多机通讯。使用D435I和睿尔曼机械臂完成手眼标定、物品抓取。
 
+* 国网浙江省电力有限公司科学技术项目
+  *基于大模型的带电作业机器人智能人机交互关键技术研究(290万元)
+
+* 盛虹巡检防爆机器人
+  *立项阶段
 
 <span style="color: #800000;">Publications</span>
 ======
