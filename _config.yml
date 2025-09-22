@@ -34,10 +34,10 @@ author:
   arxiv            : # arXiv个人资料链接 - 请更新为您的正确链接
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=2G2-01QAAAAJ"  # Google Scholar链接
   impactstory      : # ImpactStory链接
-  orcid            : "https://orcid.org/0009-0004-6639-6359"  # ORCID链接
+  orcid            : #"https://orcid.org/0009-0004-6639-6359"  # ORCID链接
   semantic         : # Semantic Scholar链接
   pubmed           : # PubMed链接
-  researchgate     : "https://www.researchgate.net/profile/Luying-Feng-3?ev=hdr_xprf"  # ResearchGate链接
+  researchgate     : #"https://www.researchgate.net/profile/Luying-Feng-3?ev=hdr_xprf"  # ResearchGate链接
   yuque           :  "https://www.yuque.com/xiaobaigao-axvlp/" # 语雀用户名
 
   # Repositories and software development - 代码仓库和软件开发平台
